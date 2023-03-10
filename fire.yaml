@@ -1,0 +1,5 @@
+train: ../fire_dataset/train
+val: ../fire_dataset/valid
+
+nc: 3
+names: ['fire', 'other', 'smoke']
